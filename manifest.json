@@ -1,0 +1,51 @@
+{
+    "name" : "Portofolio Template",
+    "short_name" : "Portofolio",
+    "icons" : [
+        {
+            "src" : "images/icons/ikon1.png",
+            "type" : "image/png",
+            "sizes" : "72x72"
+        },
+        {
+            "src" : "images/icons/ikon2.png",
+            "type" : "image/png",
+            "sizes" : "96x96"
+        },
+        {
+            "src" : "images/icons/ikon3.png",
+            "type" : "image/png",
+            "sizes" : "144x144"
+        },
+        {
+            "src" : "images/icons/ikon4.png",
+            "type" : "image/png",
+            "sizes" : "168x168"
+        },
+        {
+            "src" : "images/icons/ikon5.png",
+            "type" : "image/png",
+            "sizes" : "192x192"
+        },
+        {
+            "src" : "images/icons/ikon6.png",
+            "type" : "image/png",
+            "sizes" : "256x256"
+        },
+        {
+            "src" : "images/icons/ikon7.png",
+            "type" : "image/png",
+            "sizes" : "384x384"
+        },
+        {
+            "src" : "images/icons/ikon8.png",
+            "type" : "image/png",
+            "sizes" : "512x512"
+        }
+    ],
+    "start_url" : "index.html",
+    "display" : "standalone",
+    "orientation" : "portrait",
+    "background_color" : "#FFF",
+    "theme_color" : "#3F51B5"
+}
